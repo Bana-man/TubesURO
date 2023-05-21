@@ -1,0 +1,3 @@
+/home/banaman/TubesURO/CMakeFiles/rebuild_cache.dir
+/home/banaman/TubesURO/CMakeFiles/edit_cache.dir
+/home/banaman/TubesURO/CMakeFiles/ObjectDetection.dir
